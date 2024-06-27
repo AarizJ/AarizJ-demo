@@ -1,4 +1,4 @@
 # AarizJ-demo
 This is my first Git Repository.
 <br>
-Author: AarizJ
+Author: Aariz J
